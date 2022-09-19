@@ -1,7 +1,7 @@
 ### Hi there :v:
 My name is Malek Rekik and I am a mechanical engineering  Ph.D. candidate at the University of Houston.
 - :man_technologist: I am working on developing realtime :chart_with_downwards_trend: adaptive models for the drillstring system used in drilling in the oil and gas industry :oil_drum:
-- :nerd_face:	I am interested in state of the art modeling techniques and merging data science with the classical physics based mechanical engineering and control theory to create smart autonomous systems :robot:
+- :nerd_face:	I am interested in state of the art modeling techniques and merging data science with physics based mechanical engineering and control theory to create smart autonomous systems :robot:
 - :incoming_envelope: You can reach me at rekikmalek96@gmail.com
 
 <!--
